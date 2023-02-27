@@ -17,9 +17,7 @@ body{
 .btn1{
     width: 20%;
     height: 15%;
-    /* border-radius: 5%; */
-    
-    
+    background-color: #ffac7d;   
 }
 nav ul{
     display: flex;
@@ -42,30 +40,52 @@ nav ul{
     display: flex;
     gap: 250px;
     margin: 10px;
-    /* padding: 30px 70px; */
 }
 h2{
     font-size: 40px;
-}
-.main1{
-
 }
 .box{
     display: flex;
 }
 .btn2{
     margin-left: 40%;
+    padding: 10px;
+    background-color: #ffac7d;
 }
-/* .img1{
-    height: 10%;
-    width: 10%;
+.btn3{
+    margin-left: 40%;
+    padding: 10px;
+    background-color: #ffac7d;
 }
-.img2{
-    height: 10%;
-    width: 10%;
-
+#img1{
+    width: 20%;
+    height: 200px;
+    margin: 20px;
 }
-.img3{
-    height: 10%;
-    width: 10%;
-} */
+#img2{
+    width: 20%;
+    height: 200px;
+    margin: 20px;
+}
+#img3{
+    width: 30%;
+    height: 200px;
+    margin: 20px;
+}
+#img4{
+    width: 25%;
+    height: 200px;
+    margin: 20px;
+}
+#img5{
+    width: 25%;
+    height: 200px;
+    margin: 20px;
+}
+#img6{
+    width: 25%;
+    height: 200px;
+    margin: 20px;
+}.main3{
+    color: #002d3d;
+}
