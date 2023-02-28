@@ -34,12 +34,14 @@ nav ul{
 }
 .searchbar{
     border: 2px solid #555;
-    background-color: #999;
+    background-color: #ffe5d6;
     height: 10%;
-    width: 55%;
+    width: 30%;
     display: flex;
     gap: 250px;
     margin: 10px;
+    border-radius: 15px;
+    padding: 4px 0px;
 }
 h2{
     font-size: 40px;
@@ -68,7 +70,7 @@ h2{
     margin: 20px;
 }
 #img3{
-    width: 30%;
+    width: 20%;
     height: 200px;
     margin: 20px;
 }
@@ -86,6 +88,61 @@ h2{
     width: 25%;
     height: 200px;
     margin: 20px;
-}.main3{
-    color: #002d3d;
+}.main2{
+    background-color: #002d3d;
+}
+.design h2{
+    color: #ffac7d;
+}
+.main4{
+    background-color: #ffe5d6;
+    padding: 40px;
+    margin: 1% 0%;
+}
+#styles{
+    text-decoration: underline;
+}
+#Explore{
+    text-decoration: underline;
+}
+#blog{
+    text-decoration: underline;
+}
+.man4{
+    border-radius: 40px;
+    display: flex;
+}
+#img7{
+    width: 65%;
+    height: 350px;
+    margin-left: 20%;
+}
+.main5{
+    text-align: center;   
+}
+.offers{
+    padding: 5px 0px 10px 0px;
+}
+.btn4{
+    background-color: #ffac7d;
+    padding: 0px 18px;
+    border-radius: 20px;
+}
+.fter{
+    display: flex;
+    background-color: #002d3d;
+    color: white;
+    gap: 90px;
+    margin: 20px 0px;
+    padding: 60px 40px;
+}
+.fter li{
+    list-style: none;
+}
+.pspan{
+    color: #ffac7d;
+}
+.btn7{
+ background-color: #ffac7d;
+ padding: 4px 10px;
 }
