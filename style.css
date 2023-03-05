@@ -246,7 +246,7 @@ h2{
     padding: 10px;
     margin-top: 10%;
 }
-.main2 h2::after{
+/* .main2 h2::after{
     content: "";
     height: 3px;
     width: 90px;
@@ -255,7 +255,7 @@ h2{
     background: black;
     right: 83%;
     margin-top: -20px;
-}
+} */
 /* .mn1::after{
     content: "";
     display: block;
