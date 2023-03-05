@@ -94,7 +94,7 @@ h2{
 }
 .design{
     color: #ffac7d;
-    padding-top: -10px;
+    margin-left:  0 20%;
 }
 .main4{
     background-color: #ffe5d6;
@@ -149,16 +149,13 @@ h2{
  padding: 4px 10px;
 }
 .circle{
-    /* border-width: 180%; */
     border-radius: 60%;
     background-color: #e9c6b2;
     background: cover;
     background: size;
-    /* padding-left: 100px;
-    padding-bottom:100px; */
 
 }
-.class2{
+/* .class2{
     
     width: 20%;
     height: 150px;
@@ -175,7 +172,7 @@ h2{
     height: 150px;
     margin-left: 15%;
     
-}
+} */
 .main3{
     display: flex;
     justify-content: center;
@@ -248,4 +245,31 @@ h2{
     margin-left: 40%;
     padding: 10px;
     margin-top: 10%;
+}
+.main2 h2::after{
+    content: "";
+    height: 3px;
+    width: 90px;
+    display: block;
+    position: absolute;
+    background: black;
+    right: 73%;
+    margin-top: -20px;
+}
+.mn1::after{
+    content: "";
+    display: block;
+    height: 2px;
+    width: 90px;
+    position: absolute;
+    background: black;
+    right: 79%;
+    margin-top: -20px;
+}
+.hr22{
+    width: 1200px;
+}
+.modern{
+    background-color: #e9c6b2;
+    padding: 10px 90px;
 }
