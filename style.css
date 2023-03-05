@@ -256,7 +256,7 @@ h2{
     right: 73%;
     margin-top: -20px;
 }
-.mn1::after{
+/* .mn1::after{
     content: "";
     display: block;
     height: 2px;
@@ -272,4 +272,4 @@ h2{
 .modern{
     background-color: #e9c6b2;
     padding: 10px 90px;
-}
+} */
